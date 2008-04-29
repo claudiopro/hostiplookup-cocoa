@@ -1,7 +1,7 @@
 {
     IBClasses = (
         {
-            ACTIONS = {lookupCountryCode = id; lookupGeodata = id; }; 
+            ACTIONS = {generateKML = id; lookupCountryCode = id; lookupGeodata = id; }; 
             CLASS = AppController; 
             LANGUAGE = ObjC; 
             OUTLETS = {
