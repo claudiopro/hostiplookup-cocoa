@@ -1,0 +1,17 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {lookupCountryCode = id; lookupGeodata = id; }; 
+            CLASS = AppController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                addrField = NSTextField; 
+                countryField = NSTextField; 
+                geodataField = NSTextField; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}
